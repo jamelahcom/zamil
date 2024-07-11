@@ -10,8 +10,7 @@ In the project directory, you can run:
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-<img width="1440" alt="Screenshot 1446-01-05 at 11 14 20 AM" src="https://github.com/jamelahcom/zamil/assets/161513915/bbba5f0c-0bff-4fdc-a9f7-1db0b7399391">
-
+ 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
@@ -75,7 +74,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ### Output Header
 <img width="1440" alt="Screenshot 1446-01-05 at 11 15 47 AM" src="https://github.com/jamelahcom/zamil/assets/161513915/ad8aa316-a362-4671-8ae7-abeeca1ac65d">
 
-![Uploading Screenshot 1446-01-05 at 11.16.12 AM.png…]()
+<img width="1440" alt="Screenshot 1446-01-05 at 11 19 36 AM" src="https://github.com/jamelahcom/zamil/assets/161513915/3e91e876-e538-4f2a-9d3e-bb05ca1ca191">
+
 
 
 
