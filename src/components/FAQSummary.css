@@ -1,202 +1,39 @@
-.faq-summary {
-    max-width: 48rem;
-    margin: 2rem auto;
-    background-color: #f7fafc;
-    padding: 2rem;
-    text-align: center;
-  }
-  
-  .faq-summary .title {
-    font-size: 2rem;
-    font-weight: bold;
-    margin-bottom: 2rem;
-  }
-  
-  .faq-summary .subtitle {
-    color: #718096;
-    margin-bottom: 1.5rem;
-  }
-  
-  .faq-summary .text-gray-600 {
-    color: #718096;
-  }
-  
-  .faq-summary .hover\:underline:hover {
-    text-decoration: underline;
-  }
-  
-  .faq-summary .text-3xl {
-    font-size: 2.25rem;
-    line-height: 2.5rem;
-    font-weight: 700;
-  }
-  
-  .faq-summary .font-bold {
-    font-weight: 700;
-  }
-  
-  .faq-summary .mb-8 {
-    margin-bottom: 2rem;
-  }
-  
-  .faq-summary .bg-white {
-    background-color: #ffffff;
-  }
-  
-  .faq-summary .shadow-sm {
-    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
-  }
-  
-  .faq-summary .rounded-lg {
-    border-radius: 0.5rem;
-  }
-  
-  .faq-summary .overflow-hidden {
-    overflow: hidden;
-  }
-  
-  .faq-summary .border-b {
-    border-bottom-width: 1px;
-  }
-  
-  .faq-summary .border-gray-200 {
-    border-color: #e5e7eb;
-  }
-  
-  .faq-summary .py-4 {
-    padding-top: 1rem;
-    padding-bottom: 1rem;
-  }
-  
-  .faq-summary .px-6 {
-    padding-left: 1.5rem;
-    padding-right: 1.5rem;
-  }
-  
-  .faq-summary .flex {
-    display: flex;
-  }
-  
-  .faq-summary .justify-between {
-    justify-content: space-between;
-  }
-  
-  .faq-summary .items-center {
-    align-items: center;
-  }
-  
-  .faq-summary .text-left {
-    text-align: left;
-  }
-  
-  .faq-summary .transition-colors {
-    transition-property: background-color, border-color, color, fill, stroke;
-    transition-duration: 200ms;
-  }
-  
-  .faq-summary .duration-200 {
-    transition-duration: 200ms;
-  }
-  
-  .faq-summary .focus\:outline-none:focus {
-    outline: 2px solid transparent;
-    outline-offset: 2px;
-  }
-  
-  .faq-summary .bg-gray-100 {
-    background-color: #f3f4f6;
-  }
-  
-  .faq-summary .hover\:bg-gray-100:hover {
-    background-color: #f3f4f6;
-  }
-  
-  .faq-summary .text-gray-800 {
-    color: #1f2937;
-  }
-  
-  .faq-summary .text-blue-600 {
-    color: #2563eb;
-  }
-  
-  .faq-summary .text-gray-500 {
-    color: #6b7280;
-  }
-  
-  .faq-summary .px-6 {
-    padding-left: 1.5rem;
-    padding-right: 1.5rem;
-  }
-  
-  .faq-summary .py-4 {
-    padding-top: 1rem;
-    padding-bottom: 1rem;
-  }
-  
-  .faq-summary .text-gray-700 {
-    color: #374151;
-  }
-  
-  .faq-summary .list-decimal {
-    list-style-type: decimal;
-  }
-  
-  .faq-summary .list-disc {
-    list-style-type: disc;
-  }
-  
-  .faq-summary .pl-5 {
-    padding-left: 1.25rem;
-  }
-  
-  .faq-summary .mt-3 {
-    margin-top: 0.75rem;
-  }
-  
-  .faq-summary .min-h-screen {
-    min-height: 100vh;
-  }
-  
-  /* Custom styles for the FAQItem component */
-  .faq-item .faq-item-button {
-    width: 100%;
-    padding: 1rem 1.5rem;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    text-align: left;
-    transition: background-color 200ms;
-    outline: none;
-    border: none;
-    background: none;
-    cursor: pointer;
-  }
-  
-  .faq-item .faq-item-button:hover {
-    background-color: #f3f4f6;
-  }
-  
-  .faq-item .faq-item-title {
-    color: #1f2937;
-    font-weight: 600;
-  }
-  
-  .faq-item .faq-item-title.open {
-    color: #2563eb;
-  }
-  
-  .faq-item .faq-item-icon {
-    color: #6b7280;
-    transition: color 200ms;
-  }
-  
-  .faq-item .faq-item-icon.open {
-    color: #2563eb;
-  }
-  
-  .faq-item .faq-item-content {
-    padding: 1rem 1.5rem;
-    background-color: #ffffff;
-    color: #374151;
-  }
-  
+/* FAQSummary component styles */
+.faq-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+  font-family: 'Arial', sans-serif;
+}
+
+.breadcrumb {
+  font-size: 0.875rem;
+  color: #6B7280;
+  margin-bottom: 1rem;
+}
+
+.title {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 1.5rem;
+}
+
+.faq-list {
+  list-style: none;
+  padding: 0;
+}
+
+.faq-item {
+  margin-bottom: 2rem;
+}
+
+.faq-question {
+  font-size: 1.25rem;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+.faq-answer {
+  font-size: 1rem;
+  color: #555;
+}
