@@ -10,13 +10,15 @@ In the project directory, you can run:
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<img width="1440" alt="Screenshot 1446-01-05 at 11 14 20 AM" src="https://github.com/jamelahcom/zamil/assets/161513915/bbba5f0c-0bff-4fdc-a9f7-1db0b7399391">
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 ### `npm test`
 
-Launches the test runner in the interactive watch mode.\
+Launches the test runner in the interactive watch mode.\<img width="1440" alt="Screenshot 1446-01-05 at 11 14 00 AM" src="https://github.com/jamelahcom/zamil/assets/161513915/bbdd5df4-488c-40b9-a737-7c1ab9022736">
+
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
@@ -67,11 +69,16 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)<img width="1440" alt="Screenshot 1446-01-05 at 11 16 03 AM" src="https://github.com/jamelahcom/zamil/assets/161513915/addb5075-69fb-44f5-9274-42489e1243a9">
+
 
 ### Output Header
+<img width="1440" alt="Screenshot 1446-01-05 at 11 15 47 AM" src="https://github.com/jamelahcom/zamil/assets/161513915/ad8aa316-a362-4671-8ae7-abeeca1ac65d">
+
+![Uploading Screenshot 1446-01-05 at 11.16.12 AM.png…]()
 
 
 
-
+<img width="1440" alt="Screenshot 1446-01-05 at 11 15 56 AM" src="https://github.com/jamelahcom/zamil/assets/161513915/b33b4783-9c0e-4611-9b1f-adfbf7c08f97">
+![Uploading Screenshot 1446-01-05 at 11.16.31 AM.png…]()
 
