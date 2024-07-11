@@ -1,27 +1,32 @@
-/* Add some basic styling for the navigation bar */
+/* Add styles for the navigation bar */
 .navbar {
-  background-color: #f8f9fa;
-  padding: 1rem;
+  background-color: #fff;
+  border-bottom: 1px solid #eee;
+  padding: 1rem 2rem;
 }
 
 .nav-links {
   list-style: none;
   display: flex;
-  justify-content: space-around;
+  gap: 1.5rem;
   padding: 0;
   margin: 0;
 }
 
 .nav-links li {
-  margin: 0 1rem;
+  display: inline;
 }
 
 .nav-links a {
   text-decoration: none;
   color: #333;
-  font-weight: bold;
+  font-weight: 500;
 }
 
 .nav-links a:hover {
-  color: #007bff;
+  color: #007BFF;
+}
+
+.App {
+  font-family: 'Arial', sans-serif;
 }

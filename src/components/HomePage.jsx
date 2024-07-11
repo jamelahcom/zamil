@@ -20,9 +20,9 @@ const HomePage = () => {
       </header>
       <main className="main">
         <div className="intro">
-          <h1 className="title">The first GTM AI Platform</h1>
-          <p className="subtitle">See how you can power your whole go-to-market with AI. Pre-built Workflows deliver instant value. And building your own takes seconds. No PhD in prompt writing required.</p>
-          <button className="see-action-btn">See it in action</button>
+          <h1 className="title">Start Learning with Zamil AI-powerd system</h1>
+          <p className="subtitle">See how you can power your whole study map.</p>
+          <button className="see-action-btn">See our services </button>
         </div>
         <div className="file-upload-section">
           <FileUpload />

@@ -31,8 +31,8 @@ const FileUpload = () => {
 
   return (
     <div className="file-upload-container">
-      <h1 className="title"> verify your identity</h1>
-      <p className="subtitle">Select relevant documents to complete your kyc</p>
+      <h1 className="title"> Please Upload your Material </h1>
+      <p className="subtitle">Select relevant documents to start</p>
       
       <div 
         className="drop-zone"

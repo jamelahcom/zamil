@@ -61,16 +61,7 @@ const Questionnaire = ({ onComplete }) => {
   return (
     <form onSubmit={handleSubmit} className="space-y-6">
       <h2 className="text-2xl font-semibold text-purple-600">Plan Your Study Adventure!</h2>
-      <div>
-        <label className="block mb-2">What subject are you studying?</label>
-        <input 
-          type="text" 
-          value={subject} 
-          onChange={(e) => setSubject(e.target.value)}
-          className="w-full p-2 border rounded"
-          placeholder="e.g. Mathematics, History, Computer Science"
-        />
-      </div>
+    
       <div>
         <label className="block mb-2">How challenging is your subject?</label>
         <select 
@@ -79,9 +70,8 @@ const Questionnaire = ({ onComplete }) => {
           className="w-full p-2 border rounded"
         >
           <option value="">Select difficulty</option>
-          <option value="easy">Easy Peasy 😎</option>
-          <option value="medium">Moderate Challenge 🤔</option>
-          <option value="hard">Brain Bender 🧠💪</option>
+          <option value="easy">Easy</option>
+          <option value="medium">Hard</option>
         </select>
       </div>
       <div>
