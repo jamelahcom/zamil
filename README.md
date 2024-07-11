@@ -73,13 +73,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ![WhatsApp Image 2024-07-11 at 11 00 <img width="1440" alt="Screenshot 1446-01-05 at 11 11 00 AM" src="https://github.com/jamelahcom/zamil/assets/161513915/8acd12e1-2541-41bb-a347-581e9bd42f36">
 55_b2ca5c0a](https://github.com/jamelahcom/zamil/assets/139925009/e3d9f7b7-749e-42a2-bce7-eb32f75bc756)
 
-![2](https://github.com/jamelahcom/zamil/assets/139925009/45d5c24d-921a-4605-b861-987b6cd44710)
-
-![3](https://github.com/jamelahcom/zamil/assets/139925009/acb2cbed-8b6b-4d7e-9e1e-a7a5991be7ae)
-
-![4](https://github.com/jamelahcom/zamil/assets/139925009/f475c948-d801-4f1f-9c9b-829f332146bc)
-
-![5](https://github.com/jamelahcom/zamil/assets/139925009/9507c61d-00f4-4dc7-8e8c-9ea4b006335b)
 
 
 
